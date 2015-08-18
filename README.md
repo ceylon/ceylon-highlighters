@@ -49,3 +49,11 @@ This was used in ceylon-lang.org, ceylondoc and Herd. Not pushed upstream.
 Source: https://github.com/syntaxhighlighter
 
 Our source: https://github.com/ceylon/ceylon-compiler/blob/5fb179e85acde3078e6dbdaf6f5ac785d0761834/src/com/redhat/ceylon/ceylondoc/resources/shBrushCeylon.js
+
+## GeSHi
+
+https://qbnz.com/highlighter/
+
+This is not pushed upstream yet.
+
+Our source: https://github.com/GeSHi/geshi-1.0/pull/50
