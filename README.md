@@ -52,7 +52,7 @@ Our source: https://github.com/ceylon/ceylon-compiler/blob/5fb179e85acde3078e6db
 
 ## GeSHi
 
-https://qbnz.com/highlighter/
+http://qbnz.com/highlighter/
 
 This is not pushed upstream yet.
 
