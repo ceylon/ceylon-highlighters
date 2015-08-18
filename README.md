@@ -1,18 +1,18 @@
 List of supported Syntax Highlighters:
 
-== Pygments
+## Pygments
 
 http://pygments.org/
 
 Source: https://bitbucket.org/birkenfeld/pygments-main/src/655dbebddc23943b8047b3c139c51c22ef18fd91/pygments/lexers/jvm.py?at=default
 
-== Highlight.js
+## Highlight.js
 
 https://highlightjs.org/
 
 Source: https://github.com/isagalaev/highlight.js/blob/master/src/languages/ceylon.js
 
-== Rainbow
+## Rainbow
 
 https://craig.is/making/rainbows
 
@@ -22,7 +22,7 @@ Source: https://github.com/ccampbell/rainbow/tree/master/js/language
 
 Our source: https://github.com/ceylon/ceylon-compiler/blob/master/src/com/redhat/ceylon/ceylondoc/resources/ceylon.js
 
-== CodeMirror
+## CodeMirror
 
 https://codemirror.net/
 
@@ -32,7 +32,7 @@ Source: https://github.com/codemirror/CodeMirror/tree/master/mode
 
 Our source: https://github.com/ceylon/ceylon-web-ide-backend/tree/master/src/main/webapp/scripts/mode/ceylon
 
-== Vim
+## Vim
 
 This it not pushed upstream yet.
 
@@ -40,7 +40,7 @@ Source: http://code.google.com/p/vim/source/browse/runtime/syntax/java.vim (for 
 
 Our source: https://github.com/chochos/ceylon-vim
 
-== SyntaxHighlighter
+## SyntaxHighlighter
 
 http://alexgorbatchev.com/SyntaxHighlighter/
 
