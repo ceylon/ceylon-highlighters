@@ -57,3 +57,11 @@ http://qbnz.com/highlighter/
 This is not pushed upstream yet.
 
 Our source: https://github.com/GeSHi/geshi-1.0/pull/50
+
+## Visual Studio Code
+
+https://code.visualstudio.com
+
+There is currently [no way](http://visualstudio.uservoice.com/forums/293070-visual-studio-code/suggestions/7752408-plugin-system) to push upstream.
+
+Our source : https://github.com/bjansen/vs.language.ceylon
