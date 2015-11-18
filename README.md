@@ -62,6 +62,8 @@ Our source: https://github.com/GeSHi/geshi-1.0/pull/50
 
 https://code.visualstudio.com
 
-Published on the official marketplace: https://marketplace.visualstudio.com/items/bjansen.Ceylon
+Published on the official marketplace: https://marketplace.visualstudio.com/items/bjansen.Ceylon, install using:
+
+    ext install Ceylon
 
 Our source : https://github.com/bjansen/vs.language.ceylon
