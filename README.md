@@ -62,6 +62,6 @@ Our source: https://github.com/GeSHi/geshi-1.0/pull/50
 
 https://code.visualstudio.com
 
-There is currently [no way](http://visualstudio.uservoice.com/forums/293070-visual-studio-code/suggestions/7752408-plugin-system) to push upstream.
+Published on the official marketplace: https://marketplace.visualstudio.com/items/bjansen.Ceylon
 
 Our source : https://github.com/bjansen/vs.language.ceylon
