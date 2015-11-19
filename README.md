@@ -65,3 +65,11 @@ https://code.visualstudio.com
 There is currently [no way](http://visualstudio.uservoice.com/forums/293070-visual-studio-code/suggestions/7752408-plugin-system) to push upstream.
 
 Our source : https://github.com/bjansen/vs.language.ceylon
+
+## Sublime Text
+
+http://www.sublimetext.com
+
+This is used in GitHub syntax highlighting.
+
+Source: https://github.com/jeancharles-roger/ceylon-sublimetext
