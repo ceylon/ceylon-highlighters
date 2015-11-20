@@ -83,3 +83,9 @@ Published on the official marketplace: https://marketplace.visualstudio.com/item
     ext install Ceylon
 
 Our source : https://github.com/bjansen/vs.language.ceylon
+
+## Emacs
+
+Published on MELPA (`ceylon-mode`).
+
+Our source: https://github.com/lucaswerkmeister/ceylon-mode/
