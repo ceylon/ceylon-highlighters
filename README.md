@@ -1,16 +1,34 @@
 List of supported Syntax Highlighters:
 
-## Pygments
+## CodeMirror
 
-http://pygments.org/
+https://codemirror.net/
 
-Source: https://bitbucket.org/birkenfeld/pygments-main/src/655dbebddc23943b8047b3c139c51c22ef18fd91/pygments/lexers/jvm.py?at=default
+This is used on the Ceylon Web IDE, and pushed upstream.
+
+Source: https://github.com/codemirror/CodeMirror/tree/master/mode
+
+Our source: https://github.com/codemirror/CodeMirror/blob/master/mode/clike/clike.js#L725
+
+## GeSHi
+
+http://qbnz.com/highlighter/
+
+This is not pushed upstream yet.
+
+Our source: https://github.com/GeSHi/geshi-1.0/pull/50
 
 ## Highlight.js
 
 https://highlightjs.org/
 
 Source: https://github.com/isagalaev/highlight.js/blob/master/src/languages/ceylon.js
+
+## Pygments
+
+http://pygments.org/
+
+Source: https://bitbucket.org/birkenfeld/pygments-main/src/655dbebddc23943b8047b3c139c51c22ef18fd91/pygments/lexers/jvm.py?at=default
 
 ## Rainbow
 
@@ -22,24 +40,6 @@ Source: https://github.com/ccampbell/rainbow/tree/master/js/language
 
 Our source: https://github.com/ceylon/ceylon-compiler/blob/master/src/com/redhat/ceylon/ceylondoc/resources/ceylon.js
 
-## CodeMirror
-
-https://codemirror.net/
-
-This is used on the Ceylon Web IDE, and pushed upstream.
-
-Source: https://github.com/codemirror/CodeMirror/tree/master/mode
-
-Our source: https://github.com/codemirror/CodeMirror/blob/master/mode/clike/clike.js#L725
-
-## Vim
-
-This it not pushed upstream yet.
-
-Source: http://code.google.com/p/vim/source/browse/runtime/syntax/java.vim (for example)
-
-Our source: https://github.com/chochos/ceylon-vim
-
 ## SyntaxHighlighter
 
 http://alexgorbatchev.com/SyntaxHighlighter/
@@ -50,13 +50,21 @@ Source: https://github.com/syntaxhighlighter
 
 Our source: https://github.com/ceylon/ceylon-compiler/blob/5fb179e85acde3078e6dbdaf6f5ac785d0761834/src/com/redhat/ceylon/ceylondoc/resources/shBrushCeylon.js
 
-## GeSHi
+## Sublime Text
 
-http://qbnz.com/highlighter/
+http://www.sublimetext.com
 
-This is not pushed upstream yet.
+This is used in GitHub syntax highlighting.
 
-Our source: https://github.com/GeSHi/geshi-1.0/pull/50
+Source: https://github.com/jeancharles-roger/ceylon-sublimetext
+
+## Vim
+
+This it not pushed upstream yet.
+
+Source: http://code.google.com/p/vim/source/browse/runtime/syntax/java.vim (for example)
+
+Our source: https://github.com/chochos/ceylon-vim
 
 ## Visual Studio Code
 
@@ -67,11 +75,3 @@ Published on the official marketplace: https://marketplace.visualstudio.com/item
     ext install Ceylon
 
 Our source : https://github.com/bjansen/vs.language.ceylon
-
-## Sublime Text
-
-http://www.sublimetext.com
-
-This is used in GitHub syntax highlighting.
-
-Source: https://github.com/jeancharles-roger/ceylon-sublimetext
