@@ -26,11 +26,11 @@ Our source: https://github.com/ceylon/ceylon-compiler/blob/master/src/com/redhat
 
 https://codemirror.net/
 
-This is used on the Ceylon Web IDE, but not pushed upstream.
+This is used on the Ceylon Web IDE, and pushed upstream.
 
 Source: https://github.com/codemirror/CodeMirror/tree/master/mode
 
-Our source: https://github.com/ceylon/ceylon-web-ide-backend/tree/master/src/main/webapp/scripts/mode/ceylon
+Our source: https://github.com/codemirror/CodeMirror/blob/master/mode/clike/clike.js#L725
 
 ## Vim
 
