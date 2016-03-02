@@ -40,6 +40,12 @@ Source: https://github.com/ccampbell/rainbow/tree/master/js/language
 
 Our source: https://github.com/ceylon/ceylon-compiler/blob/master/src/com/redhat/ceylon/ceylondoc/resources/ceylon.js
 
+## Rouge
+
+PR here: https://github.com/jneen/rouge/pull/414
+
+This will be used by GitHub pages as of May 1st 2016 (with Jekyll 3). It looks like it's also used by GitLab.
+
 ## SyntaxHighlighter
 
 http://alexgorbatchev.com/SyntaxHighlighter/
