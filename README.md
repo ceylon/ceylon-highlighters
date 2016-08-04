@@ -22,6 +22,8 @@ Our source: https://github.com/GeSHi/geshi-1.0/pull/50
 
 https://highlightjs.org/
 
+This is used by Gitter
+
 Source: https://github.com/isagalaev/highlight.js/blob/master/src/languages/ceylon.js
 
 ## Pygments
