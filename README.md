@@ -42,9 +42,9 @@ Our source: https://github.com/ceylon/ceylon-compiler/blob/master/src/com/redhat
 
 ## Rouge
 
-PR here: https://github.com/jneen/rouge/pull/414
-
 This will be used by GitHub pages as of May 1st 2016 (with Jekyll 3). It looks like it's also used by GitLab.
+
+Ceylon support was merge 2016-06-02: https://github.com/jneen/rouge/pull/414
 
 ## SyntaxHighlighter
 
