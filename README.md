@@ -40,7 +40,7 @@ This is used on ceylon-lang.org, ceylon-herd and ceylondoc output, but apparentl
 
 Source: https://github.com/ccampbell/rainbow/tree/master/js/language
 
-Our source: https://github.com/ceylon/ceylon-compiler/blob/master/src/com/redhat/ceylon/ceylondoc/resources/ceylon.js
+Our source: https://github.com/ceylon/ceylon/blob/master/compiler-java/src/com/redhat/ceylon/ceylondoc/resources/ceylon.js
 
 ## Rouge
 
