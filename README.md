@@ -83,3 +83,9 @@ Published on the official marketplace: https://marketplace.visualstudio.com/item
     ext install Ceylon
 
 Our source : https://github.com/bjansen/vs.language.ceylon
+
+## LaTeX listings
+
+This is not published on CTAN yet.
+
+Our source: https://github.com/lucaswerkmeister/listings-ceylon/
